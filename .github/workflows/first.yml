@@ -7,7 +7,7 @@ jobs:
     build:
         runs-on: 
           - self-hosted
-          - ubutt
+          - prava
         steps:
           
             - uses: actions/checkout@v4
